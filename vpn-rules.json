@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "2ip.io",
+        "ipconfig.sh",
         "accounts.google.com",
         "ai.google.dev",
         "aicode.googleapis.com",
@@ -121,7 +121,7 @@
     },
     {
       "ip_cidr": [
-        "188.40.167.81/32",
+        "213.221.223.38/32",
         "160.79.104.0/21",
         "153.61.224.0/20",
         "2607:6bc0::/48",
